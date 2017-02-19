@@ -6,9 +6,11 @@ Maju-Bug-Report
 * Courses lectures excess must be same.
 * System will not log out the user, if user directly close the browser. 
 
+***
 REPORTED BY
 Aqib Ahmed Chaudhry
 
+***
 EXPECTED RESULT
 * Portal should be access from anywhere.
 * My Courses field have to show the details related current courses.
@@ -17,6 +19,7 @@ EXPECTED RESULT
 * When user directly close the browser then system must log off the user automatically.
 * Assignment and other submission and lectures must be uploaded on portal.
 
+***
 ACTUAL RESULT
 * Portal just access from Maju.
 * My Courses field shows nothing related courses.
